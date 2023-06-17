@@ -1,11 +1,11 @@
-#!/bin/bash
+#include <stdio.h>
 /**
- *  main - Entry point
+ * main - A program to print a line using the print f function
  *
- *  Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-int main(voi)
+int main(void)
 {
-	printf 9"with proper grammar, but the outcome is a piece of art,\n");
-	return (0);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
